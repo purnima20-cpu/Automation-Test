@@ -5,7 +5,6 @@ https://www.saucedemo.com/
 The project simply imports via Maven Selenium, Chrome Driver (or Gecko Driver for Firefox) and TestNG, and it consists of a signle test case LoginBasicTest.java that executes a login using the WebDriver API and verify the expected result via TestNG assertion.
 The project is by purpose very simple to show a very basic setup to run Selenium automation, the pom.xml is the required Maven file with the dependencies, and the testng.xml file is the file used by TestNG to configure the test cases.
 
-
 # 2. Prerequirements
 - Java 1.8.x
 - Maven (configured properly with Java)
